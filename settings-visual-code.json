@@ -1,0 +1,16 @@
+{
+    "telemetry.enableTelemetry": false,
+    "sublimeTextKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.formatOnPaste": true,
+    "git.ignoreMissingGitWarning": true,
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Material Theme Ocean",
+
+    //Ajustes personalizados
+    "editor.tabSize": 2,
+    "editor.rulers": [80,90,100],
+    "editor.wordWrap": "on",
+    "workbench.sideBar.location": "right"
+}
